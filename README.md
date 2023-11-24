@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundansb&label=Profile%20views&color=0e75b6&style=flat" alt="kundansb" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/KundanSB](https://github.com/KundanSB)
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/KundanSB)
 
 - 📫 How to reach me **https://www.linkedin.com/in/bhoyekundansantosh/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bhoyekundansantosh/](https://www.linkedin.com/in/bhoyekundansantosh/)
+- 📄 Know about my experiences [LINKEDIN/](https://www.linkedin.com/in/bhoyekundansantosh/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
